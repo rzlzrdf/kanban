@@ -8,7 +8,7 @@ const List = () => {
 		<>
 			<Header />
 			<Separator />
-			<Card>Card Content</Card>
+			<Card>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,</Card>
 		</>
 	);
 };
