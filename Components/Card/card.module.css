@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+
+.card_bg {
+	background-color: #f8f8fc;
+	border-radius: 2px;
+	width: 500px;
+	padding-bottom: 15px;
+}
+
+.card_header {
+	padding: 30px;
+}
+
+.left_subHeader {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: Poppins;
+	margin-top: 5px;
+}
+
+.right_subHeader {
+	font-style: normal;
+	font-weight: 600;
+	font-size: 10px;
+	line-height: 12px;
+	font-family: Poppins;
+	background-color: #ffeded;
+	padding: 10px 20px;
+	border-radius: 4px;
+	color: #f56c6c;
+	letter-spacing: 2%;
+}
+
+.taglist {
+	padding: 20px 0px;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.website {
+	background-color: #fff2c2;
+	border-radius: 4px;
+	margin: 0;
+	padding: 10px 20px;
+	color: #ebb800;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: 600;
+	line-height: 12px;
+	letter-spacing: 0.02em;
+	text-align: left;
+}
+
+.ux {
+	background-color: #d9fad9;
+	border-radius: 4px;
+	margin: 0;
+	padding: 10px 14px;
+	color: #80c480;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: 600;
+	line-height: 12px;
+	letter-spacing: 0.02em;
+	text-align: left;
+}
+
+.ui {
+	background-color: #ffeded;
+	border-radius: 4px;
+	margin: 0;
+	padding: 10px 14px;
+	color: #f56c6c;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: 600;
+	line-height: 12px;
+	letter-spacing: 0.02em;
+	text-align: left;
+}
+
+.wireframe {
+	background-color: #eae5ff;
+	border-radius: 4px;
+	margin: 0;
+	padding: 10px 20px;
+	color: #7b61ff;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: 600;
+	line-height: 12px;
+	letter-spacing: 0.02em;
+	text-align: left;
+}
+
+.avatar {
+	width: 70px;
+	margin-left: 20px;
+}

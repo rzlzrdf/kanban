@@ -1,0 +1,12 @@
+/*=== separator start ===*/
+
+.body_all {
+	background-color: rgb(18, 243, 52);
+}
+
+.separator {
+	width: auto;
+	height: 2px;
+	background-color: #dcdcff;
+	margin-bottom: 20px;
+}
